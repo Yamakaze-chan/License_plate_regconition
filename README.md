@@ -9,4 +9,4 @@ model.add(Flatten())
 model.add(Dense(128, activation='relu'))   
 model.add(Dense(36, activation='softmax'))   
 Source Github: https://github.com/saswat0/License-Plate-Recognition/tree/master   
-Dataset: 
+Dataset: https://1drv.ms/f/s!Atb46kl_Ra3rhR5igxjWWuxHSONP?e=YwVpii
